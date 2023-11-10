@@ -18,15 +18,15 @@
         <li></li>
         <li></li>
     </ol>
-    <li>Der laves et udtræk af df for det relevante år</li>
-    <li>Med udgangspunkt i udtrækket laves en navneliste - 'ini_måned_år'</li>
-    <li>På baggrund af navnelisten kopieres - hvis filerne ikke findes i forvejen/eller overskrives? -  relevante timesedler fra mTidsStatistik</li>
+    <li></li>
+    <li></li>
+    <li></li>
     <ol>
-        <li>Sti til source-mappen dannes - ROD-Classen, den er fælles for alle projekter</li>
-        <li>Sti til destinations-mappen dannes - i den enkelte PROJEKT-CLASSE</li>
-        <li>Det undersøges om timesedlen(.pdf-filen) findes i source-mappen</li>
-        <li>Det undersøges om timesedlen(.pdf-filen) findes i destrinations-mappen</li>
-		<li>Hvis timesedlen findes i source-mappen og den skal kopieres(enten ikke-findes/ønskes overskrevet) - kopieres filen til dest-mappen<li> 
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+		<li><li> 
     </ol>
 
 
