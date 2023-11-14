@@ -114,22 +114,6 @@ def skrivdataframe(df, path, file_name):
     return
     
 
-    
-"""
-
-"""
-
-udtraek_path = "C:/Filkassen/QGIS/DiverseArbejdsProjekter/"
-udtraek_file = "UdtraeksPolygoner.shp"
-result_filename = "ReWetHab"
-file_ext = ".csv"
-
-basisreg_path = "C:/Filkassen/QGIS/Naturforvaltkonference/"
-basisreg0406_file = "LysabenNatur20042006.shp"
-basisreg1619_file = "LysabenNatur20162019.shp"
-
-udtraek_omraader = ["ReWet", "WetHab"]
-
 
 
 
