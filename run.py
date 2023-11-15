@@ -1,9 +1,8 @@
 import Source.naturtypeudv as nattype
 
 
-# Gyldige projektnavne - Bet/Coast/4Fit/Hoj/Natman/Open/Orchid/Wad")
 def run():
-    nattype.indlaes(["Hede", "Orchid", "fejl", "ReWet"])
+    nattype.lav_sammendrag(["Helnæs", "Hede"])
 
 
 if __name__ == "__main__":
