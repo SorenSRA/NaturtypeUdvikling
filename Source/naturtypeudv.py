@@ -1,6 +1,4 @@
 # import af std-moduler
-import geopandas as gpd
-import pandas as pd
 from os.path import join
 
 
@@ -33,6 +31,8 @@ def lav_sammendrag(omraader):
                 sammendrag_primo_df, sammendrag_ultimo_df, primo
             )
             sra.skriv_df_csv(resultat_df, omraade, primo)
+            # sra.skriv_df_csv(clip_primo_gdf, omraade + "_primo", primo)
+            # sra.skriv_df_csv(clip_ultimo_gdf, omraade + "_ultimo", primo)
 
             print(f"Nu er csv-fil for område: {omraade} klar")
 
